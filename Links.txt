@@ -1,0 +1,5 @@
+The product that will be based around 
+https://www.amazon.ca/Freenove-Raspberry-Balancing-Recognition-Ultrasonic/dp/B08C254F73
+
+The github for the product
+https://github.com/Freenove/Freenove_Robot_Dog_Kit_for_Raspberry_Pi/blob/master/Tutorial.pdf
